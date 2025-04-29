@@ -1,5 +1,7 @@
 <img alt="Coding" style="border-radius:16px;" src="./images/background.png">
 
+<img src="https://komarev.com/ghpvc/?username=farhanahmed50&label=Profile%20views&color=11eb11&style=for-the-badge" align="left" />
+
 # Hi there 👋, I'm Farhan Ahmed!
 <br><br>🚀 Passionate Developer | MERN Stack Enthusiast<br>🔭 I’m currently working on Accounts ERP Software<br>🌱 I’m currently learning Artificial Intelligence<br>💬 Ask me about **accounting apps**, **web development**, or **tech life**<br>⚡ Fun fact: I can debug code *and* balance balance sheets!
 
